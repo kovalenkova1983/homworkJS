@@ -25,3 +25,18 @@ function homework_2_2() {
 function homework_3_1() {
     document.location.href = "sites/homework_3_1.html";
 }
+
+function homework_4_1() {
+    document.location.href = "sites/homework_4_1.html";
+}
+function homework_4_2() {
+    document.location.href = "sites/homework_4_2.html";
+}
+
+function homework_5_1() {
+    document.location.href = "sites/homework_5_1.html";
+}
+
+function homework_5_2() {
+    document.location.href = "sites/homework_5_2.html";
+}
