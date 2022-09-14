@@ -6,11 +6,7 @@
 }
 
 function homework_1_2() {
-    let x = 6
-    let y = 14
-    let z = 4
-
-    console.log("*Користувач*")
+    document.location.href = "sites/homework_1_2.html";
 }
 
 function homework_2_1() {
@@ -39,4 +35,8 @@ function homework_5_1() {
 
 function homework_5_2() {
     document.location.href = "sites/homework_5_2.html";
+}
+
+function homework_6_1() {
+    document.location.href = "sites/homework_6_1.html";
 }
