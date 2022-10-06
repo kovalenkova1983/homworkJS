@@ -40,3 +40,7 @@ function homework_5_2() {
 function homework_6_1() {
     document.location.href = "sites/homework_6_1.html";
 }
+
+function homework_6_2() {
+    document.location.href = "sites/homework_6_2.html";
+}
