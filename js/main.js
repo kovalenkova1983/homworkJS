@@ -44,3 +44,11 @@ function homework_6_1() {
 function homework_6_2() {
     document.location.href = "sites/homework_6_2.html";
 }
+
+function homework_7_1() {
+    document.location.href = "sites/homework_7_1.html";
+}
+
+function homework_8_1() {
+    document.location.href = "sites/homework_8_1.html";
+}
