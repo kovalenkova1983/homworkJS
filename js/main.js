@@ -56,3 +56,7 @@ function homework_8_1() {
 function homework_8_2() {
     document.location.href = "sites/homework_8_2.html";
 }
+
+function homework_8_3() {
+    document.location.href = "sites/homework_8_3.html";
+}
