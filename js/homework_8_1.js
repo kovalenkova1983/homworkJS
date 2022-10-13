@@ -57,12 +57,6 @@ function tick() {
 }
 
 
-
-
-
-
-
-
 document.querySelector("#startBtn").addEventListener("click", function () {
 
     div.style.backgroundColor = "green";
